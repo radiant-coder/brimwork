@@ -5,3 +5,7 @@
 <p align="justify">
     Brimwork is a set of custom styles, javascript functions and images used elsewhere on Kingdom Corp's GitHub Pages.
 </p>
+
+<p>
+    <small>Note: Several artwork assets, names and places mentioned on this github account are property of Riot Games's Valorant.</small>
+</p>
