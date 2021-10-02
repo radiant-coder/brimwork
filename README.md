@@ -7,5 +7,5 @@
 </p>
 
 <p>
-    <small>Note: Several artwork assets, names and places mentioned on this github account are property of Riot Games's Valorant.</small>
+    <sup>Note: Several artwork assets, names and places mentioned on this github account are property of Riot Games's Valorant.</sup>
 </p>
